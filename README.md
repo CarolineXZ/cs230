@@ -11,11 +11,6 @@ https://github.com/huggingface/transformers/blob/main/src/transformers/models/gp
 https://github.com/karpathy/nanoGPT
 https://github.com/danielgrittner/nanoGPT-LoRA/blob/master/model.py 
 
-
-Our Google Colab link
-https://colab.research.google.com/drive/1VCORXJXqAtopdc5DqnVB4TPs9T-kuaV1?usp=sharing 
-
-
 In this github, we simply copy all the code we used into this repo for milestone checkin purpose. We didn't merge the changes with the main repository they belong to. 
 The majory of the code are from the source above. 
 
