@@ -11,7 +11,8 @@ https://github.com/huggingface/transformers/blob/main/src/transformers/models/gp
 https://github.com/karpathy/nanoGPT
 https://github.com/danielgrittner/nanoGPT-LoRA/blob/master/model.py 
 
-In our github, we simply copy all the code we used from above into this repo for milestone check-in purpose. We didn't merge the changes with the main repository they belong to yet. The majority of the code are from the source above.
+In our GitHub, we simply copy all the code we used from the above sources, including our modifications, into our repository for milestone check-in purposes. We haven't merged the changes with the main repository they belong to yet. The majority of the code is from the source above.
+
 
 
 
